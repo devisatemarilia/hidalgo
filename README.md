@@ -1,5 +1,5 @@
 # GitHub Prof. Arnaldo Martins Hidalgo Jr.
-[link](mailto:admin@hidalgojunior.com.br)
+[E-mail](mailto:admin@hidalgojunior.com.br)
 
 ## Welcome to GitHub Pages
 
